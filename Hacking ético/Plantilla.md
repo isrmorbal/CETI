@@ -6,8 +6,3 @@
 <p><b>Asignatura: </b>Hacking Ético</p>
 
 # ÍNDICE
-
-- [Información sobre la vulnerabilidad](#información-sobre-la-vulnerabilidad)
-  - [¿Qué hace?](#¿qué-hace?)
-  - [¿En qué consiste?](#¿en-qué-consiste?)
-- [Herramientas empleadas](#herramientas-empleadas)

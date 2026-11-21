@@ -1,5 +1,5 @@
 <h1 align="center">PRÁCTICA 1 UD 1 - LEYES</h1>
-<p align="center"><img src="img/"></p>
+<p align="center"><img src="img/practica-1-ud-1-leyes.png" width="600"></p>
 <br>
 <p><b>Nombre: </b>Israel Moreno Ballesta</p>
 <p><b>Curso: </b>CETI</p>

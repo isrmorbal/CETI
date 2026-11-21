@@ -3,6 +3,6 @@
 <br>
 <p><b>Nombre: </b>Israel Moreno Ballesta</p>
 <p><b>Curso: </b>CETI</p>
-<p><b>Asignatura: </b>Análisis Forense</p>
+<p><b>Asignatura: </b>Análisis Forense Informático</p>
 
 # ÍNDICE

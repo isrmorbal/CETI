@@ -1,4 +1,4 @@
-<h1 align="center">TÍTULO</h1>
+<h1 align="center">PRÁCTICA 3 UD 2 - PROYECTO</h1>
 <p align="center"><img src="img/"></p>
 <br>
 <p><b>Nombre: </b>Israel Moreno Ballesta</p>

@@ -21,17 +21,17 @@ El código penal castiga el acceso sin autorización a cualquier sistema vulnera
 
 ## Responde a estas preguntas en un documento:
 
-- ¿Qué consecuencias legales tendría un acceso sin autorización a un sistema en España?
+> - **¿Qué consecuencias legales tendría un acceso sin autorización a un sistema en España?**
+>
+> Podría ser sancionado con pena de prisión desde 6 meses hasta 2 años y podrían sumarse otros delitos si además del acceso ha obtenido, eliminado, modificado o divulgado datos.
 
-Podría ser sancionado con pena de prisión desde 6 meses hasta 2 años y podrían sumarse otros delitos si además del acceso ha obtenido, eliminado, modificado o divulgado datos.
+> - **¿Qué obligaciones tiene una empresa si sufre una fuga de datos personales bajo el RGPD?**
+>
+> Tiene la obligación de notificar el incidente a la autoridad de control en un plazo máximo de 72 horas desde el descubrimiento de la fuga, y documentar lo sucedido. Y además en caso de ser un riesgo alto debe notificar también a las personas afectadas.
 
-- ¿Qué obligaciones tiene una empresa si sufre una fuga de datos personales bajo el RGPD?
-
-Tiene la obligación de notificar el incidente a la autoridad de control en un plazo máximo de 72 horas desde el descubrimiento de la fuga, y documentar lo sucedido. Y además en caso de ser un riesgo alto debe notificar también a las personas afectadas.
-
-- ¿Qué diferencia hay entre un test de intrusión autorizado y uno no autorizado?
-
-La diferencia es que el test de intrusión autorizado es una simulación legal y controlada de un ciberataque que se ha pactado previamente con la empresa para encontrar vulnerabilidades y poder corregirlas, mientras que un test de intrusión no autorizado es un delito o ataque realizado sin el consentimiento de la empresa.
+> - **¿Qué diferencia hay entre un test de intrusión autorizado y uno no autorizado?**
+>
+> La diferencia es que el test de intrusión autorizado es una simulación legal y controlada de un ciberataque que se ha pactado previamente con la empresa para encontrar vulnerabilidades y poder corregirlas, mientras que un test de intrusión no autorizado es un delito o ataque realizado sin el consentimiento de la empresa.
 
 ## Ejercicio práctico: redacta un mini-contrato de autorización de pentesting (máx. media página) que incluya:
 
@@ -47,7 +47,7 @@ Mediante el presente documento el cliente autoriza al pentester a realizar prueb
 Alcance. El cliente autoriza al Pentester:
 - Router y firewall de la empresa (198.51.100.1 y 198.51.100.2).
 - Servidor web (203.0.113.10).
-- Página web www.empresaejemplo.com y su aplicación de pedidos.
+- Página web <a>www.empresaejemplo.com</a> y su aplicación de pedidos.
 
 Fechas: del 6 al 12 de octubre de 2026.
 

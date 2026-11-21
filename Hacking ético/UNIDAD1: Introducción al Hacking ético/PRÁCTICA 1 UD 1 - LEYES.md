@@ -63,4 +63,4 @@ Responsabilidades. El Pentester deberá:
 
 Firmas:
 
-Cliente: &emsp;&emsp;&emsp;&emsp; Pentester:
+Cliente: ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Pentester:

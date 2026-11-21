@@ -9,7 +9,7 @@
 
 - [Revisa los siguientes extractos legales resumidos:](#revisa-los-siguientes-extractos-legales-resumidos)
 - [Responde a estas preguntas en un documento:](#responde-a-estas-preguntas-en-un-documento)
-- [Ejercicio práctico: redacta un mini-contrato de autorización de pentesting (máx. media página) que incluya:](#ejercicio-práctico:-redacta-un-mini-contrato-de-autorización-de-pentesting-(máx.-media-página)-que-incluya)
+- [Ejercicio práctico: redacta un mini-contrato de autorización de pentesting (máx. media página) que incluya:](#ejercicio-práctico-redacta-un-mini-contrato-de-autorización-de-pentesting-(máx.-media-página)-que-incluya)
 
 <h1 align="center">PRÁCTICA 1 UD 1 - LEYES</h1>
 <p align="center"><img src="img/"></p>

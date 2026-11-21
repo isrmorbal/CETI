@@ -1,4 +1,4 @@
 # Hacking ético
 
-> - [**UNIDAD1: Introducción al Hacking ético**](./UNIDAD1:%20Introducción%20al%20Hacking%20ético)
-> - [**UNIDAD2: VULNERABILIDADES**](./UNIDAD2:%20VULNERABILIDADES)
+> - [**Unidad 1: Introducción al Hacking ético**](./Unidad%201:%20Introducción%20al%20Hacking%20ético)
+> - [**Unidad 2: VULNERABILIDADES**](./Unidad%202:%20VULNERABILIDADES)

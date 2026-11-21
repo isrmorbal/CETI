@@ -1,4 +1,4 @@
-<h1 align="center">PRACTICA 1 UD 1 - LEYES</h1>
+<h1 align="center">PRÁCTICA 1 UD 1 - LEYES</h1>
 <p align="center"><img src="img/"></p>
 <br>
 <p><b>Nombre: </b>Israel Moreno Ballesta</p>

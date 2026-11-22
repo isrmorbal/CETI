@@ -1,5 +1,5 @@
 <h1 align="center">Práctica 1.1 - Fundamentos de redes</h1>
-<p align="center"><img src="img/"></p>
+<p align="center"><img src="img/practica-1.1-fundamentos-de-redes.png" width="600"></p>
 <br>
 <p><b>Nombre: </b>Israel Moreno Ballesta</p>
 <p><b>Curso: </b>CETI</p>
